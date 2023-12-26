@@ -1,0 +1,80 @@
+M10 Snippets
+------------
+
+<li><a href="pieoverview.html">All pies</a></li>
+
+<li><a href="cheesecakes.html">Cheese cakes</a></li>
+<li><a href="fruitpies.html">Fruit pies</a></li>
+<li><a href="seasonalpies.html">Seasonal pies</a></li>
+
+
+
+.small-menu {
+    list-style-type: none;
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+}
+
+
+
+.aside-header {
+    text-align: center;
+    font-family: WorkSansBold;
+    text-transform: uppercase;
+
+}
+
+
+
+
+#left-menu>a>img {
+    width: 150px;
+    margin: auto;
+    display: block;
+    
+}
+
+
+<ul>
+	<li><img src="images/logos/bethany-horizontal-logo.png" class="menu-logo" /></li>
+	<li><a href="index.html">HOME</a></li>
+	<li><a href="pieoverview.html">PIES</a></li>
+</ul>
+
+
+
+
+nav>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
+
+nav>ul>li {
+    float: left;
+}
+
+nav>ul>li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: WorkSansRegular;
+}
+
+nav>ul>li a:hover {
+    color: #ffd0c9;
+}
+
+
+
+<p>Contact us via <a href="mailto:info@bethanyspieshop.com">email</a></p>
+
+
+
+<p>Download our full <a href="downloads/Pricelist.zip">price list</a></p>
+

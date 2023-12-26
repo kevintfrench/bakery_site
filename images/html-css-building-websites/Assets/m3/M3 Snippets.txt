@@ -1,0 +1,12 @@
+M3 Snippets
+-----------
+
+
+<meta name="author" content="Bethany's Pie Shop">
+<meta name="description" content="Store front for Bethany's Pie Shop">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+

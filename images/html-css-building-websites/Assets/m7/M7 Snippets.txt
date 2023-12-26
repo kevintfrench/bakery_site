@@ -1,0 +1,11 @@
+M7 Snippets
+-----------
+
+<section id="promos">
+                    <h3 id="promo-header">Our weekly promotions</h3>
+                    <h4>Pecan pie</h4>
+                    $12.95 - serves 4<br>
+                    <img src="https://gillcleerenpluralsight.blob.core.windows.net/files/pecan-pie.jpg" width="500"
+                    alt="Pecan Pie" height="300" />
+                    <br><br>
+                </section>

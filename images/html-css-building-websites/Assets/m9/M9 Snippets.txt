@@ -1,0 +1,83 @@
+M9 Snippets
+-----------
+
+
+<article>
+<header>
+	<p class="page-header-small">Apple pie</p>
+</header>
+<figure>
+   <img
+			src="images/products/fruitpies/apple-pie-small.jpg" width="600" alt="Apple pie" />
+	<figcaption>Our world-famous apple pie</figcaption>
+</figure>
+
+<div>
+	<strong>Price: $12.95</strong>
+	<h2>Description</h2>
+	<p>
+		Bethany received the recipe for this delicious apple pie from her grandmother. At the age of
+		5,
+		she
+		was
+		already baking this <em>all-American traditional apple</em> pie at her home.
+		As the recipe goes a long way back, it contains the most typical ingredients used for so
+		many
+		years
+		to
+		make this classic even today one of our most popular pies.
+	</p>
+	<p>
+		This pie is available <strong>every day</strong> and comes in 2 sizes. <span
+			style="color:#c87d52; font-weight:bold ;">You can serve it cold or warm it for 4 minutes
+			in
+			the microwave to give it an extra touch. </span>Your house will smell just like
+		Bethany's
+		Shop!
+	</p>
+	<p>
+	<blockquote>
+		This recipe has been in our family for generations. We hope you enjoy this pie as we do -
+		Bethany
+	</blockquote>
+	</p>
+
+	<p><small>Note that some ingredients make be are dangerous if you have certain allergies. See
+			the
+			list
+			of ingredients below.</small></p>
+	<p><small>Bethany cares about the environment and we try to limit our CO<sub>2</sub> emissions
+			as
+			much
+			as possible. See our terms page for more info.</small></p>
+	<hr>
+
+	
+</div>
+
+
+</article>
+
+
+
+
+
+<li>
+	First, we combine sugar, flour and spices. We toss the apples with some lemon juice and
+	add
+	sugar.
+</li>
+
+<li>We then create the bottom crust and fill that with apple mixture. We put some butter on
+	that. We
+	then roll remaining crust to fit top of pie.
+</li>
+<li>Then we beat the eggs white until we have a foamy mix. That is then brushed over the
+	crust.
+	We
+	sprinkle some extra sugar.
+</li>
+<li>Then the pie goes into the oven at 360° for 35 minutes. When ready, we let it cool on a
+	wire
+	rack.
+</li>

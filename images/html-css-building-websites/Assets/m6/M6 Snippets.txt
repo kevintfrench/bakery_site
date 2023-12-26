@@ -1,0 +1,68 @@
+M6 Snippets
+-----------
+
+
+<p>Our address is
+            <address>Bethany's Pie Shop - Bakery Street 555 Brussels Belgium</address>
+            </p>
+
+
+
+#main-content {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+
+#left-menu {
+    float: left;
+    width: 30%;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+
+
+#main {
+    float: right;
+    width: 70%;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: #ffd0c9;
+    padding: 30px;
+}
+
+
+
+/* Specific layout styles, for amongst others footer */
+* {
+    box-sizing: border-box
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+
+
+
+
+<div id="wrapper">
+
+</div>
+
+
